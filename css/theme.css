@@ -1,0 +1,11 @@
+body {
+  background-color: #dcfbfb;
+}
+.landing {
+  background-color: rgba(73, 127, 127, 1)
+ !important;
+  background-image: url('../assets/fists.png') !important;
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
